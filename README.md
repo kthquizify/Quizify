@@ -1,4 +1,5 @@
 # [Quizify](https://kthquizify.firebaseapp.com)
+https://kthquizify.firebaseapp.com/
 
 ## First time setup :floppy_disk:
 ```
